@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CantClientesXProfesiones" targetNamespace="http://tempuri.org/CantClientesXProfesiones.xsd" xmlns:mstns="http://tempuri.org/CantClientesXProfesiones.xsd" xmlns="http://tempuri.org/CantClientesXProfesiones.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CantClientesXProfesiones" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="CantClientesXProfesiones" msprop:Generator_UserDSName="CantClientesXProfesiones">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ClientesXProfesiones" msprop:Generator_TableClassName="ClientesXProfesionesDataTable" msprop:Generator_TableVarName="tableClientesXProfesiones" msprop:Generator_TablePropName="ClientesXProfesiones" msprop:Generator_RowDeletingName="ClientesXProfesionesRowDeleting" msprop:Generator_RowChangingName="ClientesXProfesionesRowChanging" msprop:Generator_RowEvHandlerName="ClientesXProfesionesRowChangeEventHandler" msprop:Generator_RowDeletedName="ClientesXProfesionesRowDeleted" msprop:Generator_UserTableName="ClientesXProfesiones" msprop:Generator_RowChangedName="ClientesXProfesionesRowChanged" msprop:Generator_RowEvArgName="ClientesXProfesionesRowChangeEvent" msprop:Generator_RowClassName="ClientesXProfesionesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Profesiones" msprop:Generator_ColumnVarNameInTable="columnProfesiones" msprop:Generator_ColumnPropNameInRow="Profesiones" msprop:Generator_ColumnPropNameInTable="ProfesionesColumn" msprop:Generator_UserColumnName="Profesiones" type="xs:string" minOccurs="0" />
+              <xs:element name="Cantidad" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" msprop:Generator_UserColumnName="Cantidad" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

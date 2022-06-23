@@ -1,0 +1,733 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD73A2D9-A769-4ADC-9D55-79D5F854F8D5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TP_PAV1</RootNamespace>
+    <AssemblyName>TP PAV1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AD\AD_Barrios.cs" />
+    <Compile Include="AD\AD_Cliente.cs" />
+    <Compile Include="AD\AD_HistorialVentas.cs" />
+    <Compile Include="AD\AD_PlayasYEstacionamientos.cs" />
+    <Compile Include="AD\AD_Profesiones.cs" />
+    <Compile Include="AD\AD_RegistroEstacionamiento_Ingreso.cs" />
+    <Compile Include="AD\AD_ResgistroEstacionamiento.cs" />
+    <Compile Include="AD\AD_Tarjetas.cs" />
+    <Compile Include="AD\AD_usuario.cs" />
+    <Compile Include="AD\AD_Varios.cs" />
+    <Compile Include="AD\AD_VariosXFede.cs" />
+    <Compile Include="AD\AD_Vehiculo.cs" />
+    <Compile Include="AD\AD_Ventas.cs" />
+    <Compile Include="AD\ArticuloXLocal.cs" />
+    <Compile Include="AD\ArticuloXRubro.cs" />
+    <Compile Include="Capa de presentacion\AgregarArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\AgregarArticulo.Designer.cs">
+      <DependentUpon>AgregarArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\AgregarLocal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\AgregarLocal.Designer.cs">
+      <DependentUpon>AgregarLocal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\AgregarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\AgregarUsuario.Designer.cs">
+      <DependentUpon>AgregarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\AgregarVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\AgregarVehiculo.Designer.cs">
+      <DependentUpon>AgregarVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entidades\Barrio.cs" />
+    <Compile Include="DataSets\BD3K7G12_2021DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BD3K7G12_2021DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\CantClientesXProfesiones.cs">
+      <DependentUpon>CantClientesXProfesiones.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\CantClientesXProfesiones.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CantClientesXProfesiones.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\CantIngresosPorPlaya.cs">
+      <DependentUpon>CantIngresosPorPlaya.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\CantIngresosPorPlaya.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CantIngresosPorPlaya.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\DataSetClientesXBarrio.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetClientesXBarrio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\DataSetLocalesMasVentas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetLocalesMasVentas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\DataSetRegistrosEstadias.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetRegistrosEstadias.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\DataSetVentasXBarrio.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetVentasXBarrio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\DatosArticulosPorLocal.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatosArticulosPorLocal.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\DatosEstacionamientosPorPlaya.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatosEstacionamientosPorPlaya.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\DatosTarjetasClientes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatosTarjetasClientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\DetalleVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\DetalleVenta.Designer.cs">
+      <DependentUpon>DetalleVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entidades\Cliente.cs" />
+    <Compile Include="Capa de presentacion\EliminarArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\EliminarArticulo.Designer.cs">
+      <DependentUpon>EliminarArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\EliminarLocal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\EliminarLocal.Designer.cs">
+      <DependentUpon>EliminarLocal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entidades\Articulo.cs" />
+    <Compile Include="Entidades\Compra.cs" />
+    <Compile Include="Entidades\Local.cs" />
+    <Compile Include="Entidades\RegistroEstacionamiento.cs" />
+    <Compile Include="Entidades\Usuarios.cs" />
+    <Compile Include="Entidades\Vehiculo.cs" />
+    <Compile Include="Entidades\VehiculoXCliente.cs" />
+    <Compile Include="Entidades\Estacionamiento.cs" />
+    <Compile Include="Capa de presentacion\FormArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormArticulos.Designer.cs">
+      <DependentUpon>FormArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormBarrios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormBarrios.Designer.cs">
+      <DependentUpon>FormBarrios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormCambiarContrasena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormCambiarContrasena.Designer.cs">
+      <DependentUpon>FormCambiarContrasena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormClientes.Designer.cs">
+      <DependentUpon>FormClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormListados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormListados.Designer.cs">
+      <DependentUpon>FormListados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormLocales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormLocales.Designer.cs">
+      <DependentUpon>FormLocales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormPlayas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormPlayas.Designer.cs">
+      <DependentUpon>FormPlayas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormProfesiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormProfesiones.Designer.cs">
+      <DependentUpon>FormProfesiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormRegistroEgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormRegistroEgreso.Designer.cs">
+      <DependentUpon>FormRegistroEgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormEstadistica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormEstadistica.Designer.cs">
+      <DependentUpon>FormEstadistica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormTarjetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormTarjetas.Designer.cs">
+      <DependentUpon>FormTarjetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormUsuarios.Designer.cs">
+      <DependentUpon>FormUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormVehiculos.Designer.cs">
+      <DependentUpon>FormVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\FormVentas.Designer.cs">
+      <DependentUpon>FormVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\gera2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gera2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\HistorialVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\HistorialVentas.Designer.cs">
+      <DependentUpon>HistorialVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\IngresoVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\IngresoVehiculo.Designer.cs">
+      <DependentUpon>IngresoVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\LocalesPorTipoLocal.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalesPorTipoLocal.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\LocalesXTipoComercio.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalesXTipoComercio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\ModificarArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\ModificarArticulo.Designer.cs">
+      <DependentUpon>ModificarArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\ModificarLocal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\ModificarLocal.Designer.cs">
+      <DependentUpon>ModificarLocal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\ModificarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\ModificarUsuario.Designer.cs">
+      <DependentUpon>ModificarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de presentacion\ModificarVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\ModificarVehiculo.Designer.cs">
+      <DependentUpon>ModificarVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entidades\Playa.cs" />
+    <Compile Include="Entidades\Profesion.cs" />
+    <Compile Include="DataSets\ProcedimientosVentasX.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProcedimientosVentasX.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entidades\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Capa de presentacion\MenuPrincipalLocal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de presentacion\MenuPrincipalLocal.Designer.cs">
+      <DependentUpon>MenuPrincipalLocal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="DataSets\TablasTPShopping.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TablasTPShopping.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\TarjetasXCliente.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TarjetasXCliente.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entidades\Tarjeta_credito.cs" />
+    <Compile Include="DataSets\VehiculosPorModelo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VehiculosPorModelo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\VehiculosXCliente.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VehiculosXCliente.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Capa de presentacion\AgregarArticulo.resx">
+      <DependentUpon>AgregarArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\AgregarLocal.resx">
+      <DependentUpon>AgregarLocal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\AgregarUsuario.resx">
+      <DependentUpon>AgregarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\AgregarVehiculo.resx">
+      <DependentUpon>AgregarVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\agus1.rdlc" />
+    <EmbeddedResource Include="Reportes\agus2.rdlc" />
+    <EmbeddedResource Include="Capa de presentacion\DetalleVenta.resx">
+      <DependentUpon>DetalleVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\EliminarArticulo.resx">
+      <DependentUpon>EliminarArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\EliminarLocal.resx">
+      <DependentUpon>EliminarLocal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormArticulos.resx">
+      <DependentUpon>FormArticulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormBarrios.resx">
+      <DependentUpon>FormBarrios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormCambiarContrasena.resx">
+      <DependentUpon>FormCambiarContrasena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormClientes.resx">
+      <DependentUpon>FormClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormListados.resx">
+      <DependentUpon>FormListados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormLocales.resx">
+      <DependentUpon>FormLocales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormPlayas.resx">
+      <DependentUpon>FormPlayas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormProfesiones.resx">
+      <DependentUpon>FormProfesiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormRegistroEgreso.resx">
+      <DependentUpon>FormRegistroEgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormEstadistica.resx">
+      <DependentUpon>FormEstadistica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormTarjetas.resx">
+      <DependentUpon>FormTarjetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormUsuarios.resx">
+      <DependentUpon>FormUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormVehiculos.resx">
+      <DependentUpon>FormVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\FormVentas.resx">
+      <DependentUpon>FormVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\gera1.rdlc" />
+    <EmbeddedResource Include="Reportes\gera2.rdlc" />
+    <EmbeddedResource Include="Capa de presentacion\HistorialVentas.resx">
+      <DependentUpon>HistorialVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\IngresoVehiculo.resx">
+      <DependentUpon>IngresoVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ListadoClientes.rdlc" />
+    <EmbeddedResource Include="Reportes\ListadoDeClientes.rdlc" />
+    <EmbeddedResource Include="Reportes\ListadoDePlayasMasUtilizados.rdlc" />
+    <EmbeddedResource Include="Reportes\ListadoDeTarjetasPorCliente.rdlc" />
+    <EmbeddedResource Include="Capa de presentacion\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\miguel1.rdlc" />
+    <EmbeddedResource Include="Reportes\miguel2.rdlc" />
+    <EmbeddedResource Include="Capa de presentacion\ModificarArticulo.resx">
+      <DependentUpon>ModificarArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\ModificarLocal.resx">
+      <DependentUpon>ModificarLocal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\ModificarUsuario.resx">
+      <DependentUpon>ModificarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\ModificarVehiculo.resx">
+      <DependentUpon>ModificarVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\pola1.rdlc" />
+    <EmbeddedResource Include="Reportes\pola2.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de presentacion\MenuPrincipalLocal.resx">
+      <DependentUpon>MenuPrincipalLocal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteCantidadArticulosPorTipo.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteCantidadVehiculosPorMarca.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteComprasPorCliente.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteFedeCambiarNombreDespDeMerge.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteArticulosPorLocal.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteArticulosPorRubro.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteRegistrosEstadiaEstacionamiento.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteVentasPorArticulo.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteVentasPorLocal.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteCantVentasPorCliente.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteVentasXBarrio.rdlc" />
+    <None Include="DataSets\BD3K7G12_2021DataSet2.xsc">
+      <DependentUpon>BD3K7G12_2021DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\BD3K7G12_2021DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BD3K7G12_2021DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSets\BD3K7G12_2021DataSet2.xss">
+      <DependentUpon>BD3K7G12_2021DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\CantClientesXProfesiones.xsc">
+      <DependentUpon>CantClientesXProfesiones.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\CantClientesXProfesiones.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CantClientesXProfesiones.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\CantClientesXProfesiones.xss">
+      <DependentUpon>CantClientesXProfesiones.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\CantIngresosPorPlaya.xsc">
+      <DependentUpon>CantIngresosPorPlaya.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\CantIngresosPorPlaya.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CantIngresosPorPlaya.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\CantIngresosPorPlaya.xss">
+      <DependentUpon>CantIngresosPorPlaya.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DataSetClientesXBarrio.xsc">
+      <DependentUpon>DataSetClientesXBarrio.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DataSetClientesXBarrio.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetClientesXBarrio.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\DataSetClientesXBarrio.xss">
+      <DependentUpon>DataSetClientesXBarrio.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DataSetLocalesMasVentas.xsc">
+      <DependentUpon>DataSetLocalesMasVentas.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DataSetLocalesMasVentas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetLocalesMasVentas.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\DataSetLocalesMasVentas.xss">
+      <DependentUpon>DataSetLocalesMasVentas.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DataSetRegistrosEstadias.xsc">
+      <DependentUpon>DataSetRegistrosEstadias.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DataSetRegistrosEstadias.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetRegistrosEstadias.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSets\DataSetRegistrosEstadias.xss">
+      <DependentUpon>DataSetRegistrosEstadias.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DataSetVentasXBarrio.xsc">
+      <DependentUpon>DataSetVentasXBarrio.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DataSetVentasXBarrio.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetVentasXBarrio.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\DataSetVentasXBarrio.xss">
+      <DependentUpon>DataSetVentasXBarrio.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DatosArticulosPorLocal.xsc">
+      <DependentUpon>DatosArticulosPorLocal.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DatosArticulosPorLocal.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatosArticulosPorLocal.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\DatosArticulosPorLocal.xss">
+      <DependentUpon>DatosArticulosPorLocal.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DatosEstacionamientosPorPlaya.xsc">
+      <DependentUpon>DatosEstacionamientosPorPlaya.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DatosEstacionamientosPorPlaya.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatosEstacionamientosPorPlaya.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\DatosEstacionamientosPorPlaya.xss">
+      <DependentUpon>DatosEstacionamientosPorPlaya.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DatosTarjetasClientes.xsc">
+      <DependentUpon>DatosTarjetasClientes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\DatosTarjetasClientes.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatosTarjetasClientes.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSets\DatosTarjetasClientes.xss">
+      <DependentUpon>DatosTarjetasClientes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\gera2.xsc">
+      <DependentUpon>gera2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\gera2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gera2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSets\gera2.xss">
+      <DependentUpon>gera2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\LocalesPorTipoLocal.xsc">
+      <DependentUpon>LocalesPorTipoLocal.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\LocalesPorTipoLocal.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LocalesPorTipoLocal.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\LocalesPorTipoLocal.xss">
+      <DependentUpon>LocalesPorTipoLocal.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\LocalesXTipoComercio.xsc">
+      <DependentUpon>LocalesXTipoComercio.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\LocalesXTipoComercio.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LocalesXTipoComercio.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSets\LocalesXTipoComercio.xss">
+      <DependentUpon>LocalesXTipoComercio.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="DataSets\ProcedimientosVentasX.xsc">
+      <DependentUpon>ProcedimientosVentasX.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\ProcedimientosVentasX.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProcedimientosVentasX.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSets\ProcedimientosVentasX.xss">
+      <DependentUpon>ProcedimientosVentasX.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="DataSets\TablasTPShopping.xsc">
+      <DependentUpon>TablasTPShopping.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\TablasTPShopping.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TablasTPShopping.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSets\TablasTPShopping.xss">
+      <DependentUpon>TablasTPShopping.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\TarjetasXCliente.xsc">
+      <DependentUpon>TarjetasXCliente.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\TarjetasXCliente.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TarjetasXCliente.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\TarjetasXCliente.xss">
+      <DependentUpon>TarjetasXCliente.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\VehiculosPorModelo.xsc">
+      <DependentUpon>VehiculosPorModelo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\VehiculosPorModelo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VehiculosPorModelo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\VehiculosPorModelo.xss">
+      <DependentUpon>VehiculosPorModelo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\VehiculosXCliente.xsc">
+      <DependentUpon>VehiculosXCliente.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\VehiculosXCliente.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VehiculosXCliente.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\VehiculosXCliente.xss">
+      <DependentUpon>VehiculosXCliente.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_-19_3057686.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_-19_3057686 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Image1.jpg" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

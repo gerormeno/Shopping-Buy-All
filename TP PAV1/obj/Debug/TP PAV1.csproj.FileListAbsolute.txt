@@ -1,0 +1,673 @@
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\bin\Debug\TP PAV1.exe.config
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\bin\Debug\TP PAV1.exe
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\bin\Debug\TP PAV1.pdb
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP PAV1.csprojAssemblyReference.cache
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.Login.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.Properties.Resources.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP PAV1.csproj.GenerateResource.cache
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP PAV1.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP PAV1.exe
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP PAV1.pdb
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipal.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormClientes.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormTarjetas.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormArticulos.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormBarrios.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormCambiarContrasena.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormLocales.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormPlayas.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormProfesiones.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormUsuarios.resources
+C:\Users\Nahuel Ebner\Source\Repos\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormVehiculos.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\bin\Debug\TP PAV1.exe.config
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\bin\Debug\TP PAV1.exe
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\bin\Debug\TP PAV1.pdb
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP PAV1.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormArticulos.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormBarrios.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormCambiarContrasena.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormClientes.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormLocales.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormPlayas.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormProfesiones.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormTarjetas.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormUsuarios.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.FormVehiculos.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.Login.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipal.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP_PAV1.Properties.Resources.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP PAV1.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP PAV1.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP PAV1.exe
+C:\Users\migue\OneDrive\Escritorio\TP-PAV1\TP PAV1\obj\Debug\TP PAV1.pdb
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe.config
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.pdb
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csprojAssemblyReference.cache
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormArticulos.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormBarrios.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormCambiarContrasena.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormClientes.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormLocales.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormPlayas.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormProfesiones.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormTarjetas.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormUsuarios.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVehiculos.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Login.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipal.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Properties.Resources.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.GenerateResource.cache
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.exe
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.pdb
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe.config
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.pdb
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csprojAssemblyReference.cache
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormArticulos.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormBarrios.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormCambiarContrasena.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormClientes.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormLocales.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormPlayas.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormProfesiones.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormTarjetas.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormUsuarios.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVehiculos.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Login.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipal.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Properties.Resources.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.GenerateResource.cache
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CoreCompileInputs.cache
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.exe
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.pdb
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormArticulos.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormBarrios.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormCambiarContrasena.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormClientes.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormLocales.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormPlayas.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormProfesiones.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormTarjetas.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormUsuarios.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVehiculos.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Login.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipal.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Properties.Resources.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.exe
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.pdb
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe.config
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.pdb
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarUsuario.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarVehiculo.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarUsuario.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarVehiculo.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarArticulo.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarLocal.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarArticulo.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarLocal.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarLocal.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarArticulo.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipalLocal.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVentas.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarArticulo.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarLocal.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarUsuario.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarVehiculo.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarArticulo.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarLocal.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVentas.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormIngresoVehiculo.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarArticulo.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarLocal.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarUsuario.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarVehiculo.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipalLocal.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormIngresoVehiculo.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.HistorialVentas.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe.config
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.pdb
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csprojAssemblyReference.cache
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarArticulo.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarLocal.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarUsuario.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarVehiculo.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarArticulo.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarLocal.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormArticulos.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormBarrios.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormCambiarContrasena.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormClientes.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormLocales.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormPlayas.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormProfesiones.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormRegistroEgresos.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormTarjetas.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormUsuarios.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVehiculos.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVentas.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.HistorialVentas.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormIngresoVehiculo.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Login.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipal.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarArticulo.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarLocal.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarUsuario.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarVehiculo.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Properties.Resources.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipalLocal.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.GenerateResource.cache
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CoreCompileInputs.cache
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.exe
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.pdb
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\EnvDTE.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\stdole.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormRegistroEgresos.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CopyComplete
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.cache
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.compiled
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\EnvDTE.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\stdole.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarArticulo.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarLocal.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarUsuario.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarVehiculo.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarArticulo.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarLocal.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormRegistroEgresos.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormReportes.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVentas.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.HistorialVentas.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormIngresoVehiculo.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarArticulo.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarLocal.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarUsuario.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarVehiculo.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipalLocal.resources
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.cache
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.compiled
+C:\Users\geryo\OneDrive\Desktop\Facultad\Programacion de Aplicaciones Visuales\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CopyComplete
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\EnvDTE.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\stdole.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormRegistroEgresos.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormReportes.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.HistorialVentas.resources
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.cache
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.compiled
+C:\Users\Nahuel Ebner\Desktop\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CopyComplete
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe.config
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.pdb
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\EnvDTE.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\stdole.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csprojAssemblyReference.cache
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarArticulo.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarLocal.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarUsuario.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarVehiculo.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarArticulo.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarLocal.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormArticulos.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormBarrios.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormCambiarContrasena.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormClientes.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormLocales.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormPlayas.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormProfesiones.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormRegistroEgresos.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormTarjetas.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormUsuarios.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVehiculos.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVentas.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.HistorialVentas.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormIngresoVehiculo.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Login.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipal.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarArticulo.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarLocal.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarUsuario.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarVehiculo.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Properties.Resources.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipalLocal.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.GenerateResource.cache
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.cache
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.compiled
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CoreCompileInputs.cache
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CopyComplete
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.exe
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.pdb
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\EnvDTE.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\stdole.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.cache
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.compiled
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CopyComplete
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormListados.resources
+C:\Users\migue\OneDrive\Escritorio\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormEstadistica.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe.config
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.exe
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\TP PAV1.pdb
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\EnvDTE.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\stdole.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csprojAssemblyReference.cache
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarArticulo.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarLocal.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarUsuario.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.AgregarVehiculo.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarArticulo.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.EliminarLocal.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormArticulos.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormBarrios.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormCambiarContrasena.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormClientes.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormListados.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormLocales.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormPlayas.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormProfesiones.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormRegistroEgresos.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormEstadistica.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormTarjetas.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormUsuarios.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVehiculos.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormVentas.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.HistorialVentas.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormIngresoVehiculo.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Login.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipal.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarArticulo.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarLocal.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarUsuario.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.ModificarVehiculo.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.Properties.Resources.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipalLocal.resources
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.GenerateResource.cache
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.cache
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\RdlCompile.compiled
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CoreCompileInputs.cache
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.csproj.CopyComplete
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.exe
+C:\Users\geryo\TP-PAV-Shopping\TP PAV1\obj\Debug\TP PAV1.pdb
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormListados.resources
+C:\Users\agusl\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormEstadistica.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormListados.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.FormEstadistica.resources
+C:\Users\Federico\PAV\TP-PAV-Shopping\TP PAV1\obj\Debug\TP_PAV1.DetalleVenta.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP PAV1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.AgregarArticulo.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.AgregarLocal.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.AgregarUsuario.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.AgregarVehiculo.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.DetalleVenta.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.EliminarArticulo.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.EliminarLocal.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormArticulos.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormBarrios.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormCambiarContrasena.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormClientes.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormListados.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormLocales.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormPlayas.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormProfesiones.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormRegistroEgresos.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormEstadistica.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormTarjetas.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormUsuarios.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormVehiculos.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormVentas.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.HistorialVentas.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.FormIngresoVehiculo.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.Login.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipal.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.ModificarArticulo.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.ModificarLocal.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.ModificarUsuario.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.ModificarVehiculo.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP_PAV1.MenuPrincipalLocal.resources
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP PAV1.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\RdlCompile.cache
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\RdlCompile.compiled
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP PAV1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP PAV1.exe
+C:\Users\User\OneDrive\Desktop\Proyectos\Shopping Buy All\TP PAV1\TP PAV1\obj\Debug\TP PAV1.pdb

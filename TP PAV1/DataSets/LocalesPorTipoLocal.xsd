@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="LocalesPorTipoLocal" targetNamespace="http://tempuri.org/LocalesPorTipoLocal.xsd" xmlns:mstns="http://tempuri.org/LocalesPorTipoLocal.xsd" xmlns="http://tempuri.org/LocalesPorTipoLocal.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="LocalesPorTipoLocal" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="LocalesPorTipoLocal" msprop:Generator_UserDSName="LocalesPorTipoLocal">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TablaLocalesPorTipo" msprop:Generator_TableClassName="TablaLocalesPorTipoDataTable" msprop:Generator_TableVarName="tableTablaLocalesPorTipo" msprop:Generator_TablePropName="TablaLocalesPorTipo" msprop:Generator_RowDeletingName="TablaLocalesPorTipoRowDeleting" msprop:Generator_RowChangingName="TablaLocalesPorTipoRowChanging" msprop:Generator_RowEvHandlerName="TablaLocalesPorTipoRowChangeEventHandler" msprop:Generator_RowDeletedName="TablaLocalesPorTipoRowDeleted" msprop:Generator_UserTableName="TablaLocalesPorTipo" msprop:Generator_RowChangedName="TablaLocalesPorTipoRowChanged" msprop:Generator_RowEvArgName="TablaLocalesPorTipoRowChangeEvent" msprop:Generator_RowClassName="TablaLocalesPorTipoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Rubro" msprop:Generator_ColumnVarNameInTable="columnRubro" msprop:Generator_ColumnPropNameInRow="Rubro" msprop:Generator_ColumnPropNameInTable="RubroColumn" msprop:Generator_UserColumnName="Rubro" type="xs:string" minOccurs="0" />
+              <xs:element name="Cantidad" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" msprop:Generator_UserColumnName="Cantidad" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
